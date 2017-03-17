@@ -1,5 +1,7 @@
 <?php
-
-	echo "get it done now";
+	
+	echo phpinfo();
+	echo "iwo da";
+	echo "let do it again";
 
 ?>
